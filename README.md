@@ -1,5 +1,4 @@
 # Library-Management-System
 Library System
 
-made for finals school requirement
-a group activity
+made for our finals school requirement
