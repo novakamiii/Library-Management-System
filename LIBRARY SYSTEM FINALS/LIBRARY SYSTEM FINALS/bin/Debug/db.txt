@@ -1,0 +1,6 @@
+bookID=0001,book=Mine Craft,author=M. Persson,avail=AVAILABLE,borrower=N/A,rate=N/A
+bookID=0002,book=Rising of Shield Hero,author=A. Yusagi,avail=BORROWED,borrower=Bordeos,rate=N/A
+bookID=0003,book=7/11 Manual,author=Seven & I Holdings,avail=BORROWED,borrower=Gutay,rate=5
+bookID=0004,book=T. S. A. of Not Giving a F*ck,author=M. Manson,avail=AVAILABLE,borrower=N/A,rate=HakotEbabab
+bookID=0005,book=Spice and Wolf,author=Isuna Hasekura ,avail=AVAILABLE,borrower=N/A,rate=5
+bookID=0006,book=NAHHH,author=NAHHH,avail=AVAILABLE,borrower=N/A,rate=5

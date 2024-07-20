@@ -1,0 +1,27 @@
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.exe.config
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.exe
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.pdb
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.csproj.AssemblyReference.cache
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY_SYSTEM_FINALS.Form1.resources
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY_SYSTEM_FINALS.Properties.Resources.resources
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.csproj.GenerateResource.cache
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.csproj.CoreCompileInputs.cache
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.exe
+C:\Users\Jhona\source\repos\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.pdb
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.exe.config
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.exe
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.pdb
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.csproj.AssemblyReference.cache
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY_SYSTEM_FINALS.Form1.resources
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY_SYSTEM_FINALS.Properties.Resources.resources
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.csproj.GenerateResource.cache
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.csproj.CoreCompileInputs.cache
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.exe
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.pdb
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY_SYSTEM_FINALS.Borrow.resources
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY_SYSTEM_FINALS.Return.resources
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY_SYSTEM_FINALS.AddBook.resources
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.exe.manifest
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\bin\Debug\LIBRARY SYSTEM FINALS.application
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.exe.manifest
+C:\Users\novakami\Documents\Programming\VisualStudio\LIBRARY SYSTEM FINALS\LIBRARY SYSTEM FINALS\obj\Debug\LIBRARY SYSTEM FINALS.application
